@@ -1,0 +1,4 @@
+myrikko_accounts.jsonl
+.chrome-profile/
+__pycache__/
+*.log
