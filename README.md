@@ -1,4 +1,4 @@
-# myrikko-farm
+# rikkolokal
 
 Automated Myrikko.ai account registration + $10 signup bonus claim.
 
